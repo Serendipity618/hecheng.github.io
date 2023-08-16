@@ -1,5 +1,5 @@
 ---
-title: "H. Cheng, D. Xu and S. Yuan, "Sequential Anomaly Detection with Local and Global Explanations," 2022 IEEE International Conference on Big Data (Big Data), Osaka, Japan, 2022, pp. 1212-1217, doi: 10.1109/BigData55660.2022.10020990."
+title: "H. Cheng, D. Xu and S. Yuan, \"Sequential Anomaly Detection with Local and Global Explanations,\" 2022 IEEE International Conference on Big Data (Big Data), Osaka, Japan, 2022, pp. 1212-1217, doi: 10.1109/BigData55660.2022.10020990."
 collection: publications
 permalink: /publication/2022-12-17-Sequential-Anomaly-Detection-with-Local-and-Global-Explanations
 date: 2022-12-17
