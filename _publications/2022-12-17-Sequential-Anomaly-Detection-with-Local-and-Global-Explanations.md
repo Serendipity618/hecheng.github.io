@@ -1,5 +1,5 @@
 ---
-title: "H. Cheng, D. Xu and S. Yuan, \"Sequential Anomaly Detection with Local and Global Explanations\" "
+title: "H. Cheng, D. Xu and S. Yuan, \"Sequential Anomaly Detection with Local and Global Explanations\". "
 collection: publications
 permalink: /publication/2022-12-17-Sequential-Anomaly-Detection-with-Local-and-Global-Explanations
 date: 2022-12-17
