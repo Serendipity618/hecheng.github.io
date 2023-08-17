@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Mechanical Engineering, China University of Petroleum (East China), 2016
 * M.S. in Electrical and Computer Engineering, State University of New York at Binghamton, 2020
-* Ph.D in Computer Science, Utah State University, 2024 (expected)
+* Ph.D. in Computer Science, Utah State University, 2024 (expected)
 
 Work experience
 ======
