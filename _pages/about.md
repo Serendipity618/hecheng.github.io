@@ -12,6 +12,6 @@ redirect_from:
 
 Research Interests
 ======
--Machine learning
--Anomaly detection
--Backdoor attack
+- Machine learning
+- Anomaly detection
+- Backdoor attack
