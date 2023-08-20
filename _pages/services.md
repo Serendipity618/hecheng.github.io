@@ -1,3 +1,13 @@
+---
+layout: archive
+permalink: /services/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 Conference Reviewer
 ======
 * International Joint Conference on Neural Networks (IJCNN), 2023
