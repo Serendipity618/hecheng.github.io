@@ -21,7 +21,7 @@ Journal Reviewer
 <br/>
 <br/>
 
-Award
+Awards
 ======
 * Utah State University Graduate Student Travel Award (2023)
 * Utah State University Graduate Student Travel Award (2022)
