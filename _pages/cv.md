@@ -46,8 +46,14 @@ Teaching
   {% endfor %}</ul>
 <br/>
 
-Service and leadership
+Services
 ======
 * Reviewer in the International Joint Conference on Neural Networks (IJCNN), 2023
 * Reviewer in the IEEE Transactions on Computational Social Systems
 * Reviewer in the Concurrency and Computation: Practice and Experience
+<br/>
+
+Awards
+======
+* Utah State University Graduate Student Travel Award (2023)
+* Utah State University Graduate Student Travel Award (2022)
