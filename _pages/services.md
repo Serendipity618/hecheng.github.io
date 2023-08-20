@@ -24,3 +24,4 @@ Journal Reviewer
 Award
 ======
 * Utah State University Graduate Student Travel Award (2022)
+* Utah State University Graduate Student Travel Award (2023)
