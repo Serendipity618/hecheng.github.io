@@ -10,4 +10,4 @@ abstract: 'Sequential anomaly detection has been studied for decades because of 
 
 [paper](http://ieeexplore.ieee.org/abstract/document/10020990)
 [slides](http://academicpages.github.io/files/paper1.pdf)
-[code](http://academicpages.github.io/files/paper1.pdf)
+[code](https://github.com/Serendipity618/GLEAD)
