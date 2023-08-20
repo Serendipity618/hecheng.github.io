@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "He Cheng"
-  avatar           : "/assets/self.png"
+  avatar           : "self.png"
   bio              : "Ph.D. Candidate, Department of Computer Science"
   location         : "Utah State University"
   employer         :
