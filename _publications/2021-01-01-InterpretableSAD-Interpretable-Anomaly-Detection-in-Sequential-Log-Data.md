@@ -8,5 +8,4 @@ abstract: 'Anomaly detection in sequential log data is a common data analysis ta
 ---
 
 [paper](http://ieeexplore.ieee.org/abstract/document/9671642)
-[slides](http://academicpages.github.io/files/paper1.pdf)
-[code](http://academicpages.github.io/files/paper1.pdf)
+[code](https://github.com/hanxiao0607/InterpretableSAD)
