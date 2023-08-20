@@ -8,5 +8,5 @@ abstract: 'Sequential anomaly detection has received more and more attention bec
 ---
 
 [paper](http://ieeexplore.ieee.org/abstract/document/10191703)
-[slides](http://academicpages.github.io/files/paper1.pdf)
+[slides](http://Serendipity618.github.io/files/EASD.pptx)
 [code](https://github.com/Serendipity618/ESAD)
