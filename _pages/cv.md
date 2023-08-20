@@ -15,26 +15,17 @@ Education
 * M.S. in Electrical and Computer Engineering, State University of New York at Binghamton, 2020
 * Ph.D. in Computer Science, Utah State University, 2024 (expected)
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Aug 2020 - Present: Research Assistant
+  * Utah State University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: [Dr. Shuhan Yuan](https://yuan.shuhan.org/)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language: Python, Java, Matlab, C, Javascript
+* Tools: Pytorch, Pandas, Git, Linux
 
 Publications
 ======
@@ -50,4 +41,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer in the International Joint Conference on Neural Networks (IJCNN), 2023
+* Reviewer in the IEEE Transactions on Computational Social Systems
+* Reviewer in the Concurrency and Computation: Practice and Experience
